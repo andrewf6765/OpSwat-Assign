@@ -9,4 +9,5 @@
 -At the top type your api key in the variable "api_key"
 
 -When ran the program will prompt the user to enter the filename
+	
 	-Simply Type the filename and the program will analyze it
