@@ -5,6 +5,8 @@
 -This program requires the import of sys, requests, hashlib, json
 	
 	-All except for requests are in base python
+	-As such the requests module must be downloaded
+		-pip install requests
 
 -At the top type your api key in the variable "api_key"
 
